@@ -1,4 +1,4 @@
-# Herramientas y Metodos de Ingenieria del Software
+# Herramientas y Métodos de Ingeniería del Software
 
 # Página de equipo HMIS 2022
 
